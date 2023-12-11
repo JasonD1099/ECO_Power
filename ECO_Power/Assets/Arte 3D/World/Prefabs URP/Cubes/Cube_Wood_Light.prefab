@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4404872226902132}
   - component: {fileID: 33377943796342978}
   - component: {fileID: 23201474699749124}
-  - component: {fileID: 6949430734405561090}
+  - component: {fileID: 8739869202474783437}
   m_Layer: 0
   m_Name: Cube_Wood_Light
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &6949430734405561090
+--- !u!65 &8739869202474783437
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
